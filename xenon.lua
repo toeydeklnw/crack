@@ -1,4 +1,4 @@
-_G.Keys = '-FREE';
+_G.Keys = 'FREES-Patch-rllys-works';
 _EajOcBDO2BzhD19J, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
