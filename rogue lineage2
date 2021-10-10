@@ -1,0 +1,60 @@
+game.Players.LocalPlayer.UserId = 170674198
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/crack/main/rogue%20lineage", true))()
+    end)
+repeat wait() until game.CoreGui:FindFirstChild("imgui")
+if game.CoreGui:FindFirstChild("imgui") then
+    game:GetService("CoreGui").imgui.Windows.Window.Title.Text = "LUNG ARM HUB CRACK "
+end
+local text = game:GetService("CoreGui").imgui.Windows.Window.Title -- gu copy ma i sus
+local add = 10
+wait(1)
+local k = 1
+while k <= 255 do
+text.TextColor3 = Color3.new(k/255,0/255,0/255)
+k = k + add
+wait()
+end
+while true do
+k = 1
+while k <= 255 do
+text.TextColor3 = Color3.new(255/255,k/255,0/255)
+k = k + add
+wait()
+end
+k = 1
+while k <= 255 do
+text.TextColor3 = Color3.new(255/255 - k/255,255/255,0/255)
+k = k + add
+wait()
+end
+k = 1
+while k <= 255 do
+text.TextColor3 = Color3.new(0/255,255/255,k/255)
+k = k + add
+wait()
+end
+k = 1
+while k <= 255 do
+text.TextColor3 = Color3.new(0/255,255/255 - k/255,255/255)
+k = k + add
+wait()
+end
+k = 1
+while k <= 255 do
+text.TextColor3 = Color3.new(k/255,0/255,255/255)
+k = k + add
+wait()
+end
+k = 1
+while k <= 255 do
+text.TextColor3 = Color3.new(255/255,0/255,255/255 - k/255)
+k = k + add
+wait()
+end
+while k <= 255 do
+text.TextColor3 = Color3.new(255/255 - k/255,0/255,0/255)
+k = k + add
+wait()
+end
+end
